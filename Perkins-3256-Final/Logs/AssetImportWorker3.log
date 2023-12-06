@@ -2056,3 +2056,27 @@ Received Import Request.
 Start importing Assets/UpHealthCheck.asset using Guid(d4c03c8be674d495692a69af9ec9700b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7731c9d5747481a6a63db736d489d4c0') in 0.412765 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 2371.698026 seconds.
+  path: Assets/Texture/Wide Grass.mat
+  artifactKey: Guid(1a4126e29829343f7a68d133a2e51fe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Wide Grass.mat using Guid(1a4126e29829343f7a68d133a2e51fe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea807651f23842550192b37515a1033b') in 0.437459 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 865.220781 seconds.
+  path: Assets/Tree 4_Textures/normal_specular.png
+  artifactKey: Guid(7af2b84563f5049e7aa4ecdd57447389) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tree 4_Textures/normal_specular.png using Guid(7af2b84563f5049e7aa4ecdd57447389) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c3067bf78cfdacf791e3850afce43d7') in 0.229660 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 549.449703 seconds.
+  path: Assets/Texture/Reg Grass.mat
+  artifactKey: Guid(5a101f03c04e243ee980ad5b291146a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Reg Grass.mat using Guid(5a101f03c04e243ee980ad5b291146a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88f6cc3e9ec507d44343b8028c4a9453') in 0.070981 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2

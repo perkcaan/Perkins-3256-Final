@@ -2032,3 +2032,243 @@ Received Import Request.
 Start importing Assets/Tree 1.prefab using Guid(5c3d44e14f3f048d091ccef9c81aeee6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '778f0079f8ad419183ab2b6afd718aa4') in 0.075781 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 559.166335 seconds.
+  path: Assets/numbhealth.asset
+  artifactKey: Guid(2b1e07f94730f47a185ec09c2bf0a405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/numbhealth.asset using Guid(2b1e07f94730f47a185ec09c2bf0a405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3773f41bc67e40298d8f7d3431734f64') in 0.045714 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 6.269204 seconds.
+  path: Assets/Texture
+  artifactKey: Guid(22863cd6b1eaa448098cfe362fdab1cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture using Guid(22863cd6b1eaa448098cfe362fdab1cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d90ff502f885ff9069b3bd692ea5d7a') in 0.002223 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 6.601583 seconds.
+  path: Assets/Texture/New Material.mat
+  artifactKey: Guid(1a4126e29829343f7a68d133a2e51fe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/New Material.mat using Guid(1a4126e29829343f7a68d133a2e51fe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '430daec1bac972950361c9b1b5ed6643') in 0.086472 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 12.067935 seconds.
+  path: Assets/Texture/Dirty_Grass_DIFF.jpg
+  artifactKey: Guid(f5cbbdc943bd14530af7fb79aa9ef7c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Dirty_Grass_DIFF.jpg using Guid(f5cbbdc943bd14530af7fb79aa9ef7c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15be5d0225895d5847a55a1517f2f83c') in 0.162042 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 11.117691 seconds.
+  path: Assets/Texture/Dirty_Grass_SPEC.jpg
+  artifactKey: Guid(7ea574d3add7a406d88279b52b8d7ae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Dirty_Grass_SPEC.jpg using Guid(7ea574d3add7a406d88279b52b8d7ae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb198fd74668b22cf0bfebe2e3e24dcd') in 0.052219 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 2.713198 seconds.
+  path: Assets/Texture/Dirty_Grass_DISP.jpg
+  artifactKey: Guid(b886e5f582b7f4771b6a9fc7a05f98fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Dirty_Grass_DISP.jpg using Guid(b886e5f582b7f4771b6a9fc7a05f98fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33608ef976a47dd26a523e78c93272f5') in 0.013829 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 33.861550 seconds.
+  path: Assets/Texture/Stone.mat
+  artifactKey: Guid(3ed6e46a238ff4acda3513ac1911fe4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Stone.mat using Guid(3ed6e46a238ff4acda3513ac1911fe4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75c4e1ece444a2c4ff852ca71c8b5fdc') in 0.048545 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 5.059608 seconds.
+  path: Assets/Texture/Grass.mat
+  artifactKey: Guid(1a4126e29829343f7a68d133a2e51fe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Grass.mat using Guid(1a4126e29829343f7a68d133a2e51fe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88f4d0303dc148eaf726d705402169ec') in 0.012839 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 188.720613 seconds.
+  path: Assets/Texture/New Material.mat
+  artifactKey: Guid(1a4126e29829343f7a68d133a2e51fe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/New Material.mat using Guid(1a4126e29829343f7a68d133a2e51fe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd53231122605b605f629852a5b5606a') in 0.030047 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 33.710733 seconds.
+  path: Assets/Texture/Wide Grass.mat
+  artifactKey: Guid(1a4126e29829343f7a68d133a2e51fe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Wide Grass.mat using Guid(1a4126e29829343f7a68d133a2e51fe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f48ef7f35d6d4a23e107a6c36f64d74d') in 0.053757 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 10.632458 seconds.
+  path: Assets/Texture/Reg Grass.mat
+  artifactKey: Guid(5a101f03c04e243ee980ad5b291146a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Reg Grass.mat using Guid(5a101f03c04e243ee980ad5b291146a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30bb04e2a2a8dd9c86467651a1366a88') in 0.040603 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 12.695461 seconds.
+  path: Assets/Texture/Dirty_Grass_DIFF.jpg
+  artifactKey: Guid(f5cbbdc943bd14530af7fb79aa9ef7c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Dirty_Grass_DIFF.jpg using Guid(f5cbbdc943bd14530af7fb79aa9ef7c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd289687b996fc79ae01d934bde565e0') in 0.142405 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 25.480335 seconds.
+  path: Assets/Texture/New Material.mat
+  artifactKey: Guid(1a4126e29829343f7a68d133a2e51fe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/New Material.mat using Guid(1a4126e29829343f7a68d133a2e51fe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0127a2634e45234e1aa4eed5490466bc') in 0.033081 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 49.127504 seconds.
+  path: Assets/Texture/Dirty_Grass_DIFF 1.jpg
+  artifactKey: Guid(9b89a73475d104280a8aa6f02438c257) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Dirty_Grass_DIFF 1.jpg using Guid(9b89a73475d104280a8aa6f02438c257) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6efd75a081b84be4ca40ac25c6c0ae0e') in 0.049560 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 21.378687 seconds.
+  path: Assets/Texture/Wide Grass.mat
+  artifactKey: Guid(1a4126e29829343f7a68d133a2e51fe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Wide Grass.mat using Guid(1a4126e29829343f7a68d133a2e51fe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '656225ef97ef79697c787511cf92585d') in 0.041376 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 373.714449 seconds.
+  path: Assets/Texture/ROCK.mat
+  artifactKey: Guid(99d3d62b9402f4fbea6fd815228facd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/ROCK.mat using Guid(99d3d62b9402f4fbea6fd815228facd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9954050e3d553579cb3f4a365a2660bd') in 0.048345 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 82.781811 seconds.
+  path: Assets/Texture/Rock_04_DIFF.png
+  artifactKey: Guid(1619b9732e82c4a918330d35e8c2509f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Rock_04_DIFF.png using Guid(1619b9732e82c4a918330d35e8c2509f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1b294a940a15c452105d7d62f4db9b1') in 0.057100 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 76.406401 seconds.
+  path: Assets/Texture/Rock_04_DISP.png
+  artifactKey: Guid(48b2490efc3b641c09a6fe3b09764f67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Rock_04_DISP.png using Guid(48b2490efc3b641c09a6fe3b09764f67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5e190ec4702c3307b9261068049eb15') in 0.067819 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 184.913509 seconds.
+  path: Assets/Texture/Wood.mat
+  artifactKey: Guid(80e0197dc3c90481d9e8d1ecb9e6d4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Wood.mat using Guid(80e0197dc3c90481d9e8d1ecb9e6d4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8d4b3ef2068ca7f4ef355a10657fa38') in 0.063793 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 20.507267 seconds.
+  path: Assets/Texture/Palmtree_Bark_DIFF.jpg
+  artifactKey: Guid(8e40e33a7d3bc4ce8aa5ec815365aaee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Palmtree_Bark_DIFF.jpg using Guid(8e40e33a7d3bc4ce8aa5ec815365aaee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8f761e3e0c2b285fcbcf198be14ddaf') in 0.055932 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 30.773096 seconds.
+  path: Assets/Tree 4_Textures/diffuse.png
+  artifactKey: Guid(e5a81bfe3b60542d3a5b0c7fbddf3b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tree 4_Textures/diffuse.png using Guid(e5a81bfe3b60542d3a5b0c7fbddf3b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdce2b1edf8085e81b22e7978fdb23b1') in 0.039665 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.001333 seconds.
+  path: Assets/Tree 4_Textures/translucency_gloss.png
+  artifactKey: Guid(fc1cf43953ff9475e8b929eaa7e2cc44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tree 4_Textures/translucency_gloss.png using Guid(fc1cf43953ff9475e8b929eaa7e2cc44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '683d3236d46e8704178d080712a9b674') in 0.010122 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 94.385466 seconds.
+  path: Assets/Texture/Materials
+  artifactKey: Guid(b3ba5ed4ebf7c4615aa35ea3bb0fa39b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Materials using Guid(b3ba5ed4ebf7c4615aa35ea3bb0fa39b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03a5eb0be2818d493ad532b1366858b7') in 0.004488 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 267.865796 seconds.
+  path: Assets/Texture/leaf_03.png
+  artifactKey: Guid(b7e7385ebf55a4378a0ff1165b0a25dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/leaf_03.png using Guid(b7e7385ebf55a4378a0ff1165b0a25dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fd0cc0e7148defec9dca39a5120991a') in 0.128479 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 10.315261 seconds.
+  path: Assets/Texture/New Material.mat
+  artifactKey: Guid(b27a81ccb9f7f4c8a844cb4a954b553a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/New Material.mat using Guid(b27a81ccb9f7f4c8a844cb4a954b553a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d32139cddda4b805664951ce6da8f3d') in 0.035739 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 175.301391 seconds.
+  path: Assets/Texture/leaf_03.png
+  artifactKey: Guid(b7e7385ebf55a4378a0ff1165b0a25dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/leaf_03.png using Guid(b7e7385ebf55a4378a0ff1165b0a25dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12e0b1d7c190269eb3c55bb65ed0a0aa') in 0.093066 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1.458539 seconds.
+  path: Assets/Texture/New Material.mat
+  artifactKey: Guid(b27a81ccb9f7f4c8a844cb4a954b553a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/New Material.mat using Guid(b27a81ccb9f7f4c8a844cb4a954b553a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5db38e11325eba43532b30c34773b33a') in 0.033359 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Texture/Wood.mat
+  artifactKey: Guid(80e0197dc3c90481d9e8d1ecb9e6d4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Wood.mat using Guid(80e0197dc3c90481d9e8d1ecb9e6d4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0057baf3881f0929836d54c48a0ddcfe') in 0.009149 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/Texture/Wide Grass.mat
+  artifactKey: Guid(1a4126e29829343f7a68d133a2e51fe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Wide Grass.mat using Guid(1a4126e29829343f7a68d133a2e51fe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9442cd4c7dd7b493c1c8571ddadcb1ed') in 0.008952 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Texture/ROCK.mat
+  artifactKey: Guid(99d3d62b9402f4fbea6fd815228facd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/ROCK.mat using Guid(99d3d62b9402f4fbea6fd815228facd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a1a6919bf22968945fa73d555bfe880') in 0.012313 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
