@@ -9,6 +9,7 @@ TagManager:
   - EXP
   - DangerZone
   - Stab
+  - ShoppingTime
   layers:
   - Default
   - TransparentFX
