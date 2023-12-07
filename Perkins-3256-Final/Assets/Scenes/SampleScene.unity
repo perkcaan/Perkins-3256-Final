@@ -5383,9 +5383,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: The forest is crawling with monsters! Kill them all! Watch out for the
-    big, though! Make sure to get some experience by collecting the purple elixers
-    and if you need a quick heal, come back with some coin. Good Luck!
+  m_text: The forest is crawling with monsters! Kill them all! Watch out for Brian,
+    He's really tough and fast! Make sure to get some experience by collecting the
+    purple elixers and if you need a quick heal, come back with some coin. Good Luck!
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -10837,6 +10837,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 2192150625390071267, guid: 06a2ba7e79c904327b9b1e9d88560aec, type: 3}
+      propertyPath: m_Speed
+      value: 4.5
+      objectReference: {fileID: 0}
     - target: {fileID: 2610993239684134788, guid: 06a2ba7e79c904327b9b1e9d88560aec, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -10861,17 +10865,33 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: c6813dda0c64cb34f8e4a9f4caf00c86, type: 2}
+    - target: {fileID: 5592971180509083318, guid: 06a2ba7e79c904327b9b1e9d88560aec, type: 3}
+      propertyPath: m_text
+      value: Brian the Orc
+      objectReference: {fileID: 0}
+    - target: {fileID: 6792091827228476498, guid: 06a2ba7e79c904327b9b1e9d88560aec, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.2121
+      objectReference: {fileID: 0}
+    - target: {fileID: 6792091827228476498, guid: 06a2ba7e79c904327b9b1e9d88560aec, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.2121
+      objectReference: {fileID: 0}
+    - target: {fileID: 6792091827228476498, guid: 06a2ba7e79c904327b9b1e9d88560aec, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.2121
+      objectReference: {fileID: 0}
     - target: {fileID: 6792091827228476498, guid: 06a2ba7e79c904327b9b1e9d88560aec, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 238.88713
+      value: 188.6
       objectReference: {fileID: 0}
     - target: {fileID: 6792091827228476498, guid: 06a2ba7e79c904327b9b1e9d88560aec, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 72.36067
+      value: 75.3
       objectReference: {fileID: 0}
     - target: {fileID: 6792091827228476498, guid: 06a2ba7e79c904327b9b1e9d88560aec, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 350.01257
+      value: 336.8
       objectReference: {fileID: 0}
     - target: {fileID: 6792091827228476498, guid: 06a2ba7e79c904327b9b1e9d88560aec, type: 3}
       propertyPath: m_LocalRotation.w
@@ -10905,8 +10925,8 @@ PrefabInstance:
       propertyPath: _data._json
       value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Player","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
         UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Enemy","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
-        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"ECurrentHealth","value":{"$content":4.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"EMaxHealth","value":{"$content":4.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"ECurrentHealth","value":{"$content":10.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"EMaxHealth","value":{"$content":10.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"EhealthBar","value":{"$content":2,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
         UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
@@ -10926,6 +10946,14 @@ PrefabInstance:
       propertyPath: _data._objectReferences.Array.data[2]
       value: 
       objectReference: {fileID: 896769770}
+    - target: {fileID: 7628549442096002351, guid: 06a2ba7e79c904327b9b1e9d88560aec, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7628549442096002351, guid: 06a2ba7e79c904327b9b1e9d88560aec, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -1.84
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
