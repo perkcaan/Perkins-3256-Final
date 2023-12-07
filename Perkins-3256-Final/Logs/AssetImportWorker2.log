@@ -3218,3 +3218,19 @@ Received Import Request.
 Start importing Assets/Texture/leaf_02.png using Guid(42c5c114c69584b09bae5ed156fb9b64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '245cae33d1e13718b14fecb5e8448630') in 0.086892 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 217.754466 seconds.
+  path: Assets/Texture/Leaves,not really).mat
+  artifactKey: Guid(952ce7f453f3b464db5f4fcd8c6ff829) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Leaves,not really).mat using Guid(952ce7f453f3b464db5f4fcd8c6ff829) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '115ec2cf615d8a65cc5b12e8514bbdd2') in 0.238195 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 165.384193 seconds.
+  path: Assets/Texture/Leaves,not really).mat
+  artifactKey: Guid(952ce7f453f3b464db5f4fcd8c6ff829) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture/Leaves,not really).mat using Guid(952ce7f453f3b464db5f4fcd8c6ff829) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d83663d51e26ff19e982e1f48a5ce26') in 0.114108 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
