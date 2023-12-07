@@ -860,7 +860,7 @@ GameObject:
   - component: {fileID: 41816159}
   - component: {fileID: 41816158}
   m_Layer: 5
-  m_Name: Panel
+  m_Name: instructions
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -31428,7 +31428,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "Controls: \nW/A/S/D: Forward/ Strafe Left/ Backward/ Strafe Right\nQ/E:
-    Rotate Left/Rotate Right.\nSpace: Jump\nK: Close-Range Attack\nT: Talk when near
+    Rotate Left/Rotate Right.\nSpace: Jump\nK: Close-Punch Attack\nT: Talk when near
     NPC\nG: Upgradable Traits\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
