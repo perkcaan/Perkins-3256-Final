@@ -10865,6 +10865,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: c6813dda0c64cb34f8e4a9f4caf00c86, type: 2}
+    - target: {fileID: 2610993239687603902, guid: 06a2ba7e79c904327b9b1e9d88560aec, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.09
+      objectReference: {fileID: 0}
     - target: {fileID: 5592971180509083318, guid: 06a2ba7e79c904327b9b1e9d88560aec, type: 3}
       propertyPath: m_text
       value: Brian the Orc
@@ -10887,7 +10891,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6792091827228476498, guid: 06a2ba7e79c904327b9b1e9d88560aec, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 75.3
+      value: 75.28
       objectReference: {fileID: 0}
     - target: {fileID: 6792091827228476498, guid: 06a2ba7e79c904327b9b1e9d88560aec, type: 3}
       propertyPath: m_LocalPosition.z
@@ -10953,6 +10957,10 @@ PrefabInstance:
     - target: {fileID: 7628549442096002351, guid: 06a2ba7e79c904327b9b1e9d88560aec, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: -1.84
+      objectReference: {fileID: 0}
+    - target: {fileID: 8966703914320974203, guid: 06a2ba7e79c904327b9b1e9d88560aec, type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
